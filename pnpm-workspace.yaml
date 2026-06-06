@@ -1,5 +1,7 @@
 packages:
-  - "apps/*"
+  - "frameworks/*"
+
+minimumReleaseAge: 0
 
 allowBuilds:
   esbuild: true
