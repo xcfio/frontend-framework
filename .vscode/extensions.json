@@ -1,3 +1,9 @@
 {
-    "recommendations": ["Vue.volar", "svelte.svelte-vscode", "dbaeumer.vscode-eslint", "unifiedjs.vscode-mdx"]
+    "recommendations": [
+        "Vue.volar",
+        "svelte.svelte-vscode",
+        "dbaeumer.vscode-eslint",
+        "unifiedjs.vscode-mdx",
+        "astro-build.astro-vscode"
+    ]
 }

@@ -19,6 +19,12 @@
             "cwd": "${workspaceFolder}",
             "program": "${workspaceFolder}/node_modules/vite/bin/vite.js",
             "args": ["--mode", "ssr", "--force"]
+        },
+        {
+            "command": "./node_modules/.bin/astro dev",
+            "name": "Development server",
+            "request": "launch",
+            "type": "node-terminal"
         }
     ]
 }
