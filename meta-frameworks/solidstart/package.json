@@ -5,7 +5,8 @@
         "dev": "vite dev",
         "build": "vite build",
         "start": "vite start",
-        "preview": "vite preview"
+        "preview": "vite preview",
+        "test": "tsc --noEmit"
     },
     "dependencies": {
         "@solidjs/router": "^0.15.0",
