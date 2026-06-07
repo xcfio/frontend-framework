@@ -1,6 +1,5 @@
 packages:
-    - "frameworks/*"
-    - "meta-frameworks/*"
+    - "apps/*"
 
 minimumReleaseAge: 0
 minimumReleaseAgeStrict: false
